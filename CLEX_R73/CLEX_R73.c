@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main(void){
-	int a=10,b=3,c=-5;
+	int a=15,b=3,c=-5;
 	printf("aとbの論理積:a&b=%d\n",a&b);
 	printf("aとbの論理和:a|b=%d\n",a|b);
 	printf("aとbの排他的論理和=:a^b=%d\n",a^b);
