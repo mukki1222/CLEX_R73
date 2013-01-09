@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//ì¬Ò:1T211_Ö“¡—S–ç
 void main(void){
 	int a=10,b=3,c=-5;
 	printf("a‚Æb‚Ì˜_—Ï:a&b=%d\n",a&b);
